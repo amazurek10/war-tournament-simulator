@@ -1,0 +1,8 @@
+﻿  War.cpp
+C:\Users\Alan\source\repos\war-tournament-simulator\War.cpp(26,16): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+C:\Users\Alan\source\repos\war-tournament-simulator\War.cpp(145): warning C4715: 'War::playGame': not all control paths return a value
+  war-tournament-simulator.vcxproj -> C:\Users\Alan\source\repos\war-tournament-simulator\x64\Debug\war-tournament-simulator.exe

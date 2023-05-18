@@ -18,4 +18,4 @@ Emily
 ```
 Result:
 
-![](https://giphy.com/gifs/9iHp5hlvzUTb3FVAKg)
+![Imgur](https://imgur.com/bPSXGen)
